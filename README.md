@@ -3,7 +3,7 @@ Nesse projeto estou estudando métricas de RH e novas funções do Power BI como
 
 Neste Projeto eu tive a oportunidade de aprender: 
 
-# storytelling:
+# Storytelling:
 Como comunicar os dados atráves de storytelling com destaque com cores para facilitar o entendimento e uma narrativa concisa. 
 
 
@@ -78,13 +78,13 @@ Utilizando um menu de filtros com foco em segmentação de dados.
   saldo = [admissoes]-[desligamentos]
   ```
 
-# modelo relacional
+# Modelo relacional
 
 ![relacionamentoRH](./dados/img/relacionamentoRH.png "Relacionamento RH")	
 
 
 
-# link dashboard
+# Link dashboard
 
 https://app.powerbi.com/reportEmbed?reportId=eb14195e-1c06-406e-b513-704d4745e8fe&autoAuth=true&ctid=da49a844-e2e3-40af-86a6-c3819d704f49&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWJyYXppbC1zb3V0aC1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D
 
